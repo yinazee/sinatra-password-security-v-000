@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 gem "sinatra"
-gem "activerecord", "4.2"
+gem "activerecord"
 gem "sinatra-activerecord"
 gem "rake"
 gem "bcrypt"
