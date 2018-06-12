@@ -5,7 +5,7 @@ class CreateUsers < ActiveRecord::Migration[5.1]
       t.string :password
     end
   end
-  
+
   def down
   end
 end
